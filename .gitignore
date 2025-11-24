@@ -1,0 +1,3 @@
+clickhouse* 
+gdelt_v1_clean.duckdb 
+*.duckdb 
