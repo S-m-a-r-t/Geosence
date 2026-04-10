@@ -8,10 +8,10 @@ from google import genai
 # ---------------------------------------------------------
 # CONFIG
 # ---------------------------------------------------------
-CH_HOST = "b45p3y549w.ap-south-1.aws.clickhouse.cloud"
-CH_USERNAME = "default"
-CH_PASSWORD = "clickhouse_password"
-GEMINI_API_KEY = "use_api_key"
+CH_HOST = ""
+CH_USERNAME = ""
+CH_PASSWORD = ""
+GEMINI_API_KEY = ""
 
 EMBED_TABLE = "gdelt.actor_pair_embeddings"
 MAIN_TABLE = "gdelt.actor_pair"
